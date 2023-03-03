@@ -1,1 +1,1 @@
-# danish-chains
+# danish-prompts
